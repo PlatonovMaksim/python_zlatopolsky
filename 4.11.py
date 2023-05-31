@@ -1,4 +1,3 @@
-#савурская полина, задача 4.11
 kmh = int(input())
 ms = int(input())
 if kmh < ms * 1000/3600:
