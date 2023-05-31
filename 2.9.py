@@ -1,5 +1,3 @@
-#савурская полина, задача 2.9
-
 x = int(input())
 y = int(input())
 a = int(input())
