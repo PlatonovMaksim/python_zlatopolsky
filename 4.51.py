@@ -1,4 +1,3 @@
-#савурская полина, задача 4.51
 abc = int(input())
 n = int(input())
 c = abc % 10
