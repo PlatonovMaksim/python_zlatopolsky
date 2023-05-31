@@ -1,4 +1,3 @@
-#савурская полина, задача 4.4
 x = int(input())
 y = int(input())
 if x > 0 or y > 0:
