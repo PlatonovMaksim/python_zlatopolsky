@@ -1,4 +1,3 @@
-#савурская полина, задача 4.63
 from math import sqrt
 a = int(input())
 b = int(input())
