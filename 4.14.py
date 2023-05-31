@@ -1,4 +1,3 @@
-#савурская полина, задача 4.14
 r1 = int(input())
 u1 = int(input())
 r2 = int(input())
