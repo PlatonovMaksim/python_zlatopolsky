@@ -1,4 +1,3 @@
-#савурская полина, задача 4.49
 num = int(input())
 a = int(input())
 num1 = num // 10
