@@ -1,4 +1,3 @@
-#савурская полина, задача 4.13
 v1 = int(input())
 m1 = int(input())
 v2 = int(input())
