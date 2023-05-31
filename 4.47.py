@@ -1,5 +1,3 @@
-#савурская полина, задача 4.47
-
 a = int(input())
 b = int(input())
 c = int(input())
