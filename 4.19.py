@@ -1,4 +1,3 @@
-#савурская полина, задача 4.19
 from math import sqrt
 kr = int(input())
 tr = int(input())
