@@ -1,4 +1,3 @@
-#савурская полина, задача 4.2
 from math import sin 
 x = int(input())
 if x > 0:
